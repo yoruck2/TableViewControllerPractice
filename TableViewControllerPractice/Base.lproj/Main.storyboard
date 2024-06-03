@@ -189,7 +189,6 @@
         <!--Root View Controller-->
         <scene sceneID="ibA-Ws-ana">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="BcQ-oz-Q06" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <tableViewController id="fBx-OB-jgk" customClass="TableViewController" customModule="TableViewControllerPractice" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" id="Fbe-QR-0Yh">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
@@ -212,13 +211,13 @@
                     </tableView>
                     <navigationItem key="navigationItem" title="Root View Controller" id="dNX-zm-qiu"/>
                 </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="BcQ-oz-Q06" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1016" y="1"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="vkH-sg-r9M">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="bZz-J5-JYZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <navigationController id="KSi-AE-W3V" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="N3Q-mQ-sTG">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
@@ -228,6 +227,7 @@
                         <segue destination="fBx-OB-jgk" kind="relationship" relationship="rootViewController" id="VxX-GK-ehj"/>
                     </connections>
                 </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bZz-J5-JYZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="112" y="1"/>
         </scene>

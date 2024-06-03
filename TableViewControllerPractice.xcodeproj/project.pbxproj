@@ -60,8 +60,8 @@
 				84BBCEFB2BFF429F00BA3548 /* SceneDelegate.swift */,
 				84BA84982BFF4D3800167C1C /* TableViewController.swift */,
 				84BBCEFF2BFF429F00BA3548 /* Main.storyboard */,
-				84BBCF022BFF42A000BA3548 /* Assets.xcassets */,
 				84BBCF042BFF42A000BA3548 /* LaunchScreen.storyboard */,
+				84BBCF022BFF42A000BA3548 /* Assets.xcassets */,
 				84BBCF072BFF42A000BA3548 /* Info.plist */,
 			);
 			path = TableViewControllerPractice;
